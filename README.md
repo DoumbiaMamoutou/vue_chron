@@ -1,6 +1,8 @@
 # vue_chron
 utilisation cron job avec vue js
 
+<script src="//cdn.56k.guru/js/croner/latest/croner.min.js"></script>
+
 
 
 ```html
@@ -57,3 +59,6 @@ utilisation cron job avec vue js
 
 </script>
 ```
+
+
+plus de détails: https://github.com/Soro08/croner
